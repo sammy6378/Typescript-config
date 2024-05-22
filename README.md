@@ -6,7 +6,7 @@ To set up and run TypeScript in Visual Studio Code (VS Code), you need to instal
 
 Install Node.js and npm:
 
-Ensure that you have Node.js and npm installed on your machine. You can download and install them from nodejs.org.
+Ensure that you have Node.js and npm installed on your machine. You can download and install them from [nodejs.org](https://nodejs.org/en).
 
 Initialize a new Node.js project:
 Open your terminal and navigate to your project directory. Run the following command to initialize a new Node.js project:
@@ -38,4 +38,4 @@ This will generate a default tsconfig.json file, which you can modify according 
 Make sure you have the TypeScript extension installed in VS Code. You can install it from the Extensions view by searching for "TypeScript".
 
 ## Additional Resources
-For more information on TypeScript and its configuration options, visit the TypeScript npm package page.
+For more information on TypeScript and its configuration options, visit the [TypeScript npm package page](https://www.npmjs.com/package/typescript).
